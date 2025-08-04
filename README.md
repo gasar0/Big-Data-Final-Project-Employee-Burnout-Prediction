@@ -111,12 +111,12 @@ cd employee-burnout-prediction
 
 ### Option 1: Complete Analysis (Recommended for Final Results)
 ```python
-python burnout_analysis.py
+Employee burnout Risk.ipynb
 ```
 This runs the entire analysis pipeline and generates all outputs.
 
 ### Option 2: Step-by-Step Analysis (Recommended for Learning)
-Use the `simple_burnout_script.py` file and run each section separately:
+Use the `Employee burnout Risk.ipynb` file and run each section separately:
 
 1. **Import Libraries** - Load all required packages
 2. **Load Data** - Import and inspect your dataset
@@ -134,23 +134,6 @@ Use the `simple_burnout_script.py` file and run each section separately:
 - Multiple visualization plots showing data insights
 - Model performance metrics and comparison
 - Feature importance rankings
-
-## Project Structure
-
-```
-employee-burnout-prediction/
-├── README.md                      # Project documentation
-├── burnout_analysis.py           # Complete analysis script
-├── simple_burnout_script.py      # Step-by-step version
-├── PowerBI_Guide.md              # Dashboard creation guide
-├── burnout-train.csv             # Input dataset
-├── cleaned_burnout_data.csv      # Processed data (generated)
-├── requirements.txt              # Python dependencies
-└── images/                       # Generated visualizations
-    ├── eda_charts.png
-    ├── model_comparison.png
-    └── clustering_analysis.png
-```
 
 ## Technical Implementation
 
@@ -306,6 +289,4 @@ This project demonstrates proficiency in:
 
 ---
 
-**University Project - Data Science & Analytics**
-
-*This project showcases end-to-end data science workflow from raw data to actionable business insights.*
+Done:August 2025
