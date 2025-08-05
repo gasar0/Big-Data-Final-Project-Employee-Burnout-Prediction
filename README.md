@@ -52,7 +52,7 @@ Employee burnout is a serious workplace issue that affects productivity, mental 
 
 ### Visualization & Dashboard
 - **Python Visualizations**: Charts and graphs using matplotlib and seaborn
-- **Power BI Dashboard**: 5-page interactive dashboard with filters and drill-down
+- **Power BI Dashboard**: 3-page interactive dashboard with filters and drill-down
 - **Risk Assessment Tools**: Visual indicators for employee risk levels
 - **Mobile Responsive**: Dashboard works on different screen sizes
 
